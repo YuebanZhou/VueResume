@@ -1,9 +1,9 @@
-# myresume
+# YuebanZhou的Vue版本的线上简历
 
 > A Vue.js project
 
 ## Build Setup
-
+- 请执行下列语句
 ``` bash
 # install dependencies
 npm install
